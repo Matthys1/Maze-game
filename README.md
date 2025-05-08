@@ -10,3 +10,7 @@ The original version is bad for these reasons:
 - looks bad
 
 If you want to play this game you should choose the second version
+
+I also have put the game on google drive here:
+
+(Google Drive)[]
